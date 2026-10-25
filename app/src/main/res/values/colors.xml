@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uygulama tema renkleri -->
+    <color name="launcher_bg">#FFFFFFFF</color>   <!-- Beyaz splash arka plan -->
+    <color name="launcher_bg_mid">#FF0D1B2E</color>
+    <color name="accent_blue">#FF4FC3F7</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
